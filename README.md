@@ -93,8 +93,4 @@ Plano de Aula com Assistente de AI - Perplexity
 5. **Planejamento PCDs**  
    Memórias internas de planejamento educacional [cite:3][cite:9]
 
----
-
-**✅ Este plano está pronto para aplicação direta em sala de aula!**  
-**Copie este README.md para seu repositório GitHub.**
 
